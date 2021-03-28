@@ -5,7 +5,8 @@ Specialties
 • Docker
 • JAVA
 • Git and Github
-• Android App Development 
+• Android App Development
+• DBMS
 
 - 🔭 I’m currently working on The Cryptography
 - 🌱 I’m currently learning Networking and JAVA
