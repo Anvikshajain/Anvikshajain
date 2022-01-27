@@ -1,5 +1,5 @@
 
-A third year Computer Science student at Galgotias University with an interest in computer networks and programming.
+A final year Computer Science student at Galgotias University with an interest in computer networks and programming.
 
 Specialties
 • Docker
